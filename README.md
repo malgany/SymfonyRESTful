@@ -1,5 +1,6 @@
 
 # SymfonyRESTful
+![RESTful](https://user-images.githubusercontent.com/4349392/153139399-0d5af985-9a57-4c59-8c98-f1e220921761.PNG)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
